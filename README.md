@@ -1,1 +1,3 @@
 # aiCourse
+
+testowa wiadomość
